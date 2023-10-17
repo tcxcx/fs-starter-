@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "my-workspace",
+  "scripts": {
+    "dev": "pnpm --filter web dev",
+    "build": "pnpm --filter web build"
+  },
+  "devDependencies": {
+    "typescript": "5.1.6"
+  }
+}
